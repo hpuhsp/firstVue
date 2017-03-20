@@ -1,9 +1,9 @@
 
 # first-vue
 
-> first vue project
+> vue、angular.js 开发熟悉前端小项目
 
-## Build Setup
+<!--## Build Setup
 
 ``` bash
 # install dependencies
@@ -26,8 +26,8 @@ npm run e2e
 
 # run all tests
 npm test
-```
+```-->
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-<!--前端个人练习项目-->
+前端个人练习项目
 
